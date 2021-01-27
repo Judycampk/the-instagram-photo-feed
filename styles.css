@@ -1,0 +1,45 @@
+body{
+    background-color: #eae9e9;
+    margin: 0%;
+    font-family: 'Pacifico', cursive;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    background: white;
+    margin-bottom: 6%;
+}
+.feed{ 
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+.post-container{
+    background-color: white;
+    margin-bottom: -3%; 
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+.order{ 
+    color: rgb(218, 216, 216);
+}
+.imagen{
+    width: 100%;
+}
+.parrafo{
+    margin-top:-20px;
+    background-color: white;
+    text-align: center;
+}
+.feed-2{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+.imagen-2{
+    width: 100%;
+}
